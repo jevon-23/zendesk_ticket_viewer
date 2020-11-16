@@ -1,0 +1,59 @@
+Usage:
+	python3 viewer.py
+
+Commands:
+
+	-list
+		Outputs the first page of tickets.json 25 tickets per page. 
+
+	-next
+		Outputs the next page. If 'list' has not been called, will output the first page. 
+
+	-back
+		Outputs the previous page. If user has not called 'list' or 'next' yet, this will output the first page. This will also output the first page if the user has only seen page 1. 
+
+	-search {String subject}
+		Searches through all the tickets for a ticket containing the string SUBJECT in its "subject" field. Returns all of the tickets that contain SUBJECT.
+	
+	-search {int ticket_number}
+		Takes in a value 0 -> length(all_tickets)-1, and returns the ticket with that ticket number. 
+	
+	-exit
+		Exits the program.
+
+
+Installation:
+	-getApi()	
+		Gets the api from Zendesk
+	
+	-printDet(ticks, index)
+		Prints out all of the details for the given ticket. CURRTICK is the ticket that we will be printing out.
+
+	-printInd(subject, ticks)
+		Prints out the individual ticket based on SUBJECT for search. SUBJECT is the ticket number or subject field of the ticket you are trying to access.
+		TICKS is the list of all the tickets that was returned from the json
+	
+	-printTicks(page,ticks)
+		Prints out 25 tickets. Takes in PAGE, which is the current page number. TICKS is the list of all tickets that was returned from the json. Returns the next page number. If we are at
+		the last page, returns the first page. 
+
+	-main()
+		Runs the program. Starts by getting the api, and then waits for next instruction from the user. Program ends when user inputs "exit". If we recieve an input having to deal with 
+		printing out pages, we will run printTicks(). If we recieve a search input, we will run printInd().
+
+Misc.:
+	I was not sure if we were supposed to be able to take in anybody's user information and attempt to access their tickets or only my personal tickets. If we were supposed to be able to access 
+	anybody's tickets, I would change the program such that:
+
+		-When the program begins, it would ask for the users' information, (name of subdomain, email, and access token). Have my getApi() function instead take in 3 variables, and output a json
+		 for that person's tickets. Adjust getApi() and main() to take in those input arguments, and the rest would stay the same. 
+
+
+Test:
+
+	-To test the printInd() and printTicks(), run python3 test.py
+
+	-To test the main(), python3 viewer.py <tests/{file}.in> tests/{file}.out, then look at the output file
+
+		-Example: python3 viewer.py <tests/test_invalid.in> tests/test_invalid.out
+		          cat tests/test_invalid.out

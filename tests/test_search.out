@@ -1,0 +1,44 @@
+To get a list of all the tickets, enter "list".
+To get an individual ticket, enter "search {subject}" or "search {ticket number}. 
+To exit program, enter "exit"
+
+
+--- ticket 2 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit eiusmod reprehenderit officia cupidatat
+description : Aute ex sunt culpa ex ea esse sint cupidatat aliqua ex consequat sit reprehenderit. Velit labore proident quis culpa ad duis adipisicing laboris voluptate velit incididunt minim consequat nulla. Laboris adipisicing reprehenderit minim tempor officia ullamco occaecat ut laborum.
+
+Aliquip velit adipisicing exercitation irure aliqua qui. Commodo eu laborum cillum nostrud eu. Mollit duis qui non ea deserunt est est et officia ut excepteur Lorem pariatur deserunt.
+tags :  ['est', 'incididunt', 'nisi'] 
+
+
+--- ticket 25 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : voluptate dolor deserunt ea deserunt
+description : Consectetur eiusmod pariatur ullamco voluptate irure sunt magna cillum velit irure commodo culpa ipsum in. Nulla non exercitation dolor quis minim deserunt ad consequat officia ullamco irure consectetur anim mollit. Cupidatat exercitation cillum excepteur culpa consectetur ad adipisicing exercitation est amet ullamco id eiusmod tempor. Aliqua quis irure culpa tempor mollit veniam. Fugiat aliquip duis non sit id eu ea anim sit ea aliqua et dolor.
+
+Culpa culpa culpa id proident dolor magna ipsum dolor irure mollit proident culpa. Officia Lorem veniam dolor sit commodo id consequat ex qui enim veniam. Laboris velit excepteur sit sit anim nulla exercitation.
+tags :  ['do', 'est', 'labore'] 
+
+
+--- ticket 19 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : est fugiat labore pariatur esse
+description : Tempor id commodo ut eu. Ipsum ut velit deserunt ad minim ullamco aliquip eu eiusmod veniam. Elit nostrud Lorem aute nisi commodo in aliquip elit nisi ea. Magna mollit incididunt consequat elit proident adipisicing et anim enim. Sint ipsum ullamco duis tempor nostrud veniam. Anim quis irure ullamco reprehenderit nostrud id reprehenderit anim. Nulla id do ullamco nisi.
+
+Commodo laborum excepteur ad ut ipsum fugiat tempor nostrud officia. Consequat non adipisicing et anim dolore magna aliquip cillum Lorem. Pariatur veniam do esse magna excepteur ex officia quis sit amet ut in et amet. Ipsum est dolore do consectetur ut mollit proident sit aute labore veniam nulla velit anim.
+tags :  ['dolore', 'reprehenderit', 'veniam'] 
+
+
+--- ticket 67 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : adipisicing officia reprehenderit id fugiat
+description : Ea ipsum elit occaecat non sint mollit deserunt laboris consequat exercitation do sunt. Ex cillum consequat elit duis dolor velit. Anim consequat veniam nostrud mollit cillum et reprehenderit Lorem elit do est esse est. Duis sunt incididunt elit adipisicing culpa magna elit ut nostrud in incididunt consequat. Laboris aute ullamco ut enim nisi et. Mollit officia incididunt ullamco do.
+
+Dolore aute et duis laborum incididunt cillum nulla et. Magna dolor aliqua ad do officia. Laborum consectetur adipisicing incididunt ut consectetur mollit aliquip reprehenderit. Eu qui adipisicing aliqua consequat sunt sint magna do. Eiusmod enim pariatur aliquip proident deserunt labore occaecat occaecat id commodo aute reprehenderit qui eu. Nostrud velit velit sunt aliqua labore Lorem enim in mollit sit. Voluptate irure quis sit minim commodo proident ullamco.
+tags :  ['duis', 'laborum', 'qui'] 
+

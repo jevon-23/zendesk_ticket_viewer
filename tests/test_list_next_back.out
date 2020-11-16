@@ -1,0 +1,612 @@
+To get a list of all the tickets, enter "list".
+To get an individual ticket, enter "search {subject}" or "search {ticket number}. 
+To exit program, enter "exit"
+
+page 1 , tickets 0 - 25
+
+--- ticket 0 ---
+requester_id : 425772302933
+assignee-id : 425836241294
+subject : Sample ticket: Meet the ticket 
+
+
+--- ticket 1 ---
+requester_id : 425772302933
+assignee-id : 425836241294
+subject : I need help 
+
+
+--- ticket 2 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit eiusmod reprehenderit officia cupidatat 
+
+
+--- ticket 3 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : excepteur laborum ex occaecat Lorem 
+
+
+--- ticket 4 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ad sunt qui aute ullamco 
+
+
+--- ticket 5 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : aliquip mollit quis laborum incididunt 
+
+
+--- ticket 6 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : nisi aliquip ipsum nostrud amet 
+
+
+--- ticket 7 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : cillum quis nostrud labore amet 
+
+
+--- ticket 8 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : proident est nisi non irure 
+
+
+--- ticket 9 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : veniam ea eu minim aute 
+
+
+--- ticket 10 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : magna reprehenderit nisi est cillum 
+
+
+--- ticket 11 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : quis veniam ad sunt non 
+
+
+--- ticket 12 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : tempor aliquip sint dolore incididunt 
+
+
+--- ticket 13 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : labore pariatur ut laboris laboris 
+
+
+--- ticket 14 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia mollit aliqua eu nostrud 
+
+
+--- ticket 15 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : do incididunt incididunt quis anim 
+
+
+--- ticket 16 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : tempor magna anim ea id 
+
+
+--- ticket 17 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : exercitation sit incididunt magna laboris 
+
+
+--- ticket 18 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : laborum ea ut in cupidatat 
+
+
+--- ticket 19 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : est fugiat labore pariatur esse 
+
+
+--- ticket 20 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : commodo sint laboris est et 
+
+
+--- ticket 21 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : laboris sint Lorem ex Lorem 
+
+
+--- ticket 22 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : esse adipisicing consectetur sunt tempor 
+
+
+--- ticket 23 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sunt enim pariatur id id 
+
+
+--- ticket 24 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : et ad ut enim labore 
+
+To go to the next page, enter "next". To go back, enter "back"
+page 2 , tickets 25 - 50
+
+--- ticket 25 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : voluptate dolor deserunt ea deserunt 
+
+
+--- ticket 26 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : in labore quis mollit mollit 
+
+
+--- ticket 27 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ut magna eiusmod magna nostrud 
+
+
+--- ticket 28 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : magna consequat ut ullamco magna 
+
+
+--- ticket 29 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : irure pariatur aliquip dolore esse 
+
+
+--- ticket 30 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia esse nostrud est exercitation 
+
+
+--- ticket 31 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : aute ipsum sint exercitation labore 
+
+
+--- ticket 32 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit irure elit incididunt non 
+
+
+--- ticket 33 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : fugiat non aliqua irure aliquip 
+
+
+--- ticket 34 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : proident esse ut velit labore 
+
+
+--- ticket 35 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : laboris et proident qui enim 
+
+
+--- ticket 36 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : in id consequat dolore enim 
+
+
+--- ticket 37 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : enim duis deserunt ipsum ad 
+
+
+--- ticket 38 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ipsum ex id minim eu 
+
+
+--- ticket 39 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : incididunt mollit pariatur esse esse 
+
+
+--- ticket 40 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sit pariatur nisi reprehenderit sit 
+
+
+--- ticket 41 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : amet ipsum amet laborum sit 
+
+
+--- ticket 42 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ut anim tempor voluptate deserunt 
+
+
+--- ticket 43 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : eu id magna aute occaecat 
+
+
+--- ticket 44 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit in sit deserunt id 
+
+
+--- ticket 45 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : proident esse laboris officia pariatur 
+
+
+--- ticket 46 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : irure esse irure qui dolore 
+
+
+--- ticket 47 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia voluptate sit sunt pariatur 
+
+
+--- ticket 48 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sunt dolore excepteur laborum magna 
+
+
+--- ticket 49 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : qui voluptate culpa do tempor 
+
+To go to the next page, enter "next". To go back, enter "back"
+page 3 , tickets 50 - 75
+
+--- ticket 50 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia magna velit nostrud ullamco 
+
+
+--- ticket 51 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : esse ut qui do aute 
+
+
+--- ticket 52 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : fugiat sunt do incididunt enim 
+
+
+--- ticket 53 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : reprehenderit id non aliqua enim 
+
+
+--- ticket 54 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sint excepteur mollit excepteur aliqua 
+
+
+--- ticket 55 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : voluptate proident voluptate incididunt culpa 
+
+
+--- ticket 56 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : aliqua sit quis cupidatat nisi 
+
+
+--- ticket 57 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : et veniam ullamco consequat amet 
+
+
+--- ticket 58 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : excepteur Lorem anim adipisicing deserunt 
+
+
+--- ticket 59 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : mollit tempor fugiat incididunt aliqua 
+
+
+--- ticket 60 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : cillum cillum mollit et deserunt 
+
+
+--- ticket 61 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : nulla adipisicing occaecat mollit voluptate 
+
+
+--- ticket 62 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : quis nulla minim labore aliquip 
+
+
+--- ticket 63 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : laboris eu laborum aute fugiat 
+
+
+--- ticket 64 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : voluptate aliquip occaecat deserunt ad 
+
+
+--- ticket 65 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit minim adipisicing magna esse 
+
+
+--- ticket 66 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : tempor laborum qui voluptate nulla 
+
+
+--- ticket 67 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : adipisicing officia reprehenderit id fugiat 
+
+
+--- ticket 68 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : id ipsum ex deserunt esse 
+
+
+--- ticket 69 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : adipisicing exercitation ex nostrud ipsum 
+
+
+--- ticket 70 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : magna aliqua occaecat culpa velit 
+
+
+--- ticket 71 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : non enim adipisicing veniam ullamco 
+
+
+--- ticket 72 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : quis non laborum sint non 
+
+
+--- ticket 73 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : aliqua minim Lorem proident eiusmod 
+
+
+--- ticket 74 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : duis dolore est esse et 
+
+To go to the next page, enter "next". To go back, enter "back"
+page 2 , tickets 25 - 50
+
+--- ticket 25 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : voluptate dolor deserunt ea deserunt 
+
+
+--- ticket 26 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : in labore quis mollit mollit 
+
+
+--- ticket 27 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ut magna eiusmod magna nostrud 
+
+
+--- ticket 28 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : magna consequat ut ullamco magna 
+
+
+--- ticket 29 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : irure pariatur aliquip dolore esse 
+
+
+--- ticket 30 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia esse nostrud est exercitation 
+
+
+--- ticket 31 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : aute ipsum sint exercitation labore 
+
+
+--- ticket 32 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit irure elit incididunt non 
+
+
+--- ticket 33 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : fugiat non aliqua irure aliquip 
+
+
+--- ticket 34 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : proident esse ut velit labore 
+
+
+--- ticket 35 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : laboris et proident qui enim 
+
+
+--- ticket 36 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : in id consequat dolore enim 
+
+
+--- ticket 37 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : enim duis deserunt ipsum ad 
+
+
+--- ticket 38 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ipsum ex id minim eu 
+
+
+--- ticket 39 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : incididunt mollit pariatur esse esse 
+
+
+--- ticket 40 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sit pariatur nisi reprehenderit sit 
+
+
+--- ticket 41 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : amet ipsum amet laborum sit 
+
+
+--- ticket 42 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : ut anim tempor voluptate deserunt 
+
+
+--- ticket 43 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : eu id magna aute occaecat 
+
+
+--- ticket 44 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : velit in sit deserunt id 
+
+
+--- ticket 45 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : proident esse laboris officia pariatur 
+
+
+--- ticket 46 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : irure esse irure qui dolore 
+
+
+--- ticket 47 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : officia voluptate sit sunt pariatur 
+
+
+--- ticket 48 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : sunt dolore excepteur laborum magna 
+
+
+--- ticket 49 ---
+requester_id : 425836241294
+assignee-id : 425836241294
+subject : qui voluptate culpa do tempor 
+
+To go to the next page, enter "next". To go back, enter "back"

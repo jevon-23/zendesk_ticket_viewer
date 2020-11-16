@@ -1,0 +1,12 @@
+To get a list of all the tickets, enter "list".
+To get an individual ticket, enter "search {subject}" or "search {ticket number}. 
+To exit program, enter "exit"
+
+Index is out of range, please give an index that is 0 - 99 
+
+There are no tickets that conatain that subject.
+
+Invalid input. 
+
+Invalid input. 
+
